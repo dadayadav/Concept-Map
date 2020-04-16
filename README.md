@@ -7,13 +7,13 @@ Results of Concept Map:
  ![](result/Between%20topic%20and%20concept.png)
 
 2. Concept-Map in spring form for first output:
- ![](Spring%20Form.png)
+ ![](result/Spring%20Form.png)
 
 3. Concept-Map in spring form for Second output:
- ![](Spring%20Form%202.png)
+ ![](result/Spring%20Form%202.png)
  
 4. Concept-Map in Random form:
- ![](Random%20Form.png)
+ ![](result/Random%20Form.png)
 
 5. Concept-Map in Circular form:
- ![](circular_form.png)
+ ![](result/circular_form.png)
