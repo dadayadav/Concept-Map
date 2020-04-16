@@ -4,7 +4,7 @@ Make a Knowledge Graph using NLP and python visualizing library networkx.
 Results of Concept Map:
 
 1. Visualization between topic and concepts:
- ![](Between%20topic%20and%20concept.png)
+ ![](/result/Between%20topic%20and%20concept.png)
 
 2. Concept-Map in spring form for first output:
  ![](Spring%20Form.png)
