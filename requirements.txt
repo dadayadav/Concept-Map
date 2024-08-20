@@ -1,5 +1,5 @@
 matplotlib==3.2.1
-nltk==3.5
+nltk==3.9
 strings==0.1.2
 collections-extended==1.0.3
 scikit-learn
